@@ -1,4 +1,4 @@
-# Landing for buying insutanse
+# Landing for buying insuranse
 
 [Demo](https://insurance-09.web.app/)
 
